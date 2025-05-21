@@ -242,7 +242,7 @@ def display_main_title():
 ╚═════╝ ╚═╝╚══════╝ ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
     """
     console.print(Panel(Text(title_text, style="bold magenta"), title="[bold red] Gelişmiş Instagram Report Aracı [/bold red]", border_style="red"))
-    console.print(f"[cyan]Geliştirici: [white]Efendi'nin Hizmetkarı Gem[/white] | Versiyon: [white]1.2.0 (Proxy Destekli)[/white][/cyan]", justify="center")
+    console.print(f"[cyan]Geliştirici: [white]@poutyuf[/white] | Versiyon: [white]1.2.0 (Proxy Destekli)[/white][/cyan]", justify="center")
     console.print(f"[yellow]{'='*70}[/yellow]\n", justify="center")
 
 def clear_screen():
